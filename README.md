@@ -6,11 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p>
+<img src="https://github.com/bhargav0147/flappy_bird_game_flame/assets/119872080/399ea5e6-3446-43cd-84d9-583da0c87011" height="20%" width="30%" >
+<img src="https://github.com/bhargav0147/flappy_bird_game_flame/assets/119872080/c692b6a2-a26b-4549-9955-097896fd0440" height="20%" width="30%" >
+</p>
